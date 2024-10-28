@@ -8,4 +8,4 @@ setInterval(() => {
     }
     console.log(`Output: ${stdout}`);
   });
-}, 5000); // 5000ms = 5 seconds
+}, 6000); // 5000ms = 5 seconds
