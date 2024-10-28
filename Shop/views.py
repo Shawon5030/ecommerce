@@ -1,3 +1,4 @@
 import product
 # Create your views here.
-def home(
+def home(request):
+          all_Product = product.objects.all()
